@@ -37,6 +37,10 @@
   color: inherit;
 }
 
+div.container {
+  padding-top: 62px;
+}
+
 .form-group select {
   margin-right: 15px;
 }
